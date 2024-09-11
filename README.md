@@ -1,5 +1,4 @@
-# Algo2Buchwald
-## Algoritmos y Programación II (actual Algoritmos y Estructuras de Datos) - Cátedra Buchwald
+# Algoritmos y Programación II (actual Algoritmos y Estructuras de Datos) - Cátedra Buchwald
 
 ### Cuatrimestre de Cursada
 2° Cuatrimestre 2022
